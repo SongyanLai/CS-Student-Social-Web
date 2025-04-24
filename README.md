@@ -1,4 +1,7 @@
-# How to Start the Project 
+# How to Start the Project
+
+This project is a social web application that allows users to create and share their thoughts, experiences, and ideas. The application is built using Node.js, Express.js, MongoDB, and React.js. Beside, it is also the project for the CS385[A] — Mobile Application Development (2024-25:Semester 1) course at National University of Ireland Maynooth. This project was finished by [Songyan Lai](https://github.com/SongyanLai) and [Li Men](https://github.com/TymeoL1).
+
 This project consists of two parts: the backend and the frontend.<br>
 
 To start the backend:<br>
@@ -17,8 +20,6 @@ Password: root
 
 # 19.Dec.2024 Update <br>
 
-# 2024 年 12 月 19 日更新：<br>
-
 1，撰写了英文注释 2，增加了 blog 的删除功能 3，更改了主题颜色和样式 4，解决了评论内容和时间冲突的问题
 
 Added English comments.
@@ -31,14 +32,10 @@ Resolved conflicts between comment content and timestamps.
 
 # 18.Dec.2024 Update <br>
 
-# 2024 年 12 月 18 日更新：<br>
-
 Add Post content recording function and save data by uploading it to the database through the backend<br>
 添加 Post 内容记录功能，通过后端上传到数据库保存数据
 
 # 12.Dec.2024 Update <br>
-
-# 2024 年 12 月 12 日更新：<br>
 
 Reorganized the path structure <br>
 更新了文件结构保证合理性<br>
@@ -55,24 +52,20 @@ Modify /App.js in the original branch to /Welcome.js
 Add a variable [ isLoggedIn ] in /Welcome to update the status to implement simple offline verification (only applicable to offline, no authentication methods such as Token are used to ensure the security of communication between the front-end and back-end servers) <br>
 在/Welcome 中添加了一个变量 [ isLoggedIn ] 用于更新状态实现简单的离线验证（仅适用于离线，未使用 Token 等认证方法保证前后端服务器通信的安全性）
 
-# 5/12/2024
+# 5.Dec.2024 Update
 
-增加了 Homepage
+Created Homepage
 
-# CS385_Team_Project
+# Created
 
 Songyan Lai
 
-1.删除了 Type。
+1.Deleted Type.
 
-2.更新了使用 API 获取天气的功能
+2. Updated the function of using the API to get weather
 
-3.新建了搜索界面，完成了搜索功能
+3. Created a new search interface and completed the search function
 
-4.blogPage.js 和 SearchPage.js，分别对应博客页面和搜索页面。另有 BlogPage.css 博客页面样式。
+4.blogPage.js and SearchPage.js correspond to blog pages and search pages respectively. There is also the BlogPage.css blog page style.
 
-Created by LI and SONGYAN from Lithium Group
-
-11.26 upload
-添加简单交互界面通过 MongoDB 存入的用户数据进行简单验证
-main
+5. Add a simple interactive interface to simply verify the user data stored in MongoDB.
