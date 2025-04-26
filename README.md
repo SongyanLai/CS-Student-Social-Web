@@ -1,4 +1,4 @@
-# How to Start the Project
+# About This Project
 
 This project is a social web application that allows users to create and share their thoughts, experiences, and ideas. The application is built using Node.js, Express.js, MongoDB, and React.js. Beside, it is also the project for the CS385[A] — Mobile Application Development (2024-25:Semester 1) course at National University of Ireland Maynooth. This project was finished by [Songyan Lai](https://github.com/SongyanLai) and [Li Men](https://github.com/TymeoL1).
 
