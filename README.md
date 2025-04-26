@@ -14,7 +14,7 @@ Navigate to the frontend directory and run:<br>
 
 npm start<br>
 
-<br>Test Credentials</br>
+<strong>Test Credentials</strong>
 Username: test1<br>
 Password: root
 
